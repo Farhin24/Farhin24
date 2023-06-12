@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Farhin Damania</h1>
-<img align="left" alt="Together we can!" width="400" src="https://advantaltechnologies.com//wp-content/uploads/2020/01/webdesigngif.gif">
+<img align="right" alt="Together we can!" width="400" src="https://advantaltechnologies.com//wp-content/uploads/2020/01/webdesigngif.gif">
 
 
   🎓 A recent graduate from Dalhousie University with an objective of chasing a challenging career in **Software Development**.
